@@ -4,8 +4,6 @@
 
 This project implements a 3D version of the classic Tic-Tac-Toe game. It utilizes Pygame for window management, event handling, and font rendering, and PyOpenGL for 3D graphics rendering. Players can interact with a 3x3 grid of cubes, clicking on them to place their 'X' or 'O'. The game features cube animations, texture mapping, and two distinct game modes.
 
-This README provides an overview of the project structure, features, and instructions for running the game, based on the provided Python script.
-
 ## Features
 
 *   **3D Game Board:** A 3x3 grid of interactive cubes forming the Tic-Tac-Toe board.
