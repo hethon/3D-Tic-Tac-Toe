@@ -87,3 +87,13 @@ The core logic is contained within a single Python script. Key components includ
     *   A message indicating the winner or a draw will be displayed.
 4.  **Restarting:**
     *   After a game ends, press the `SPACE` bar to reset the board and return to the mode selection screen.
+
+## Screenshots
+
+Below are examples of the game in action:
+
+**Game Start / Mode Selection:**
+![Game Start](screenshots/gamestart.png)
+
+**Game Over / Winner Display:**
+![Game Over](screenshots/gameover.png)
