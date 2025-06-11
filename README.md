@@ -67,8 +67,7 @@ The core logic is contained within a single Python script. Key components includ
 
 1.  Ensure all prerequisites (Python libraries and texture files) are met and available.
 2.  Save the provided code as a Python file (e.g., `3d_tic_tac_toe.py`).
-3.  Place `crate.png`, `crate_x.png`, and `crate_o.png` in the same directory as the script.
-4.  Run the script from your terminal:
+3.  Run the script from your terminal:
     ```bash
     python 3d_tic_tac_toe.py
     ```
