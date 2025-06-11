@@ -121,7 +121,7 @@ def check_winner(cubes):
 def is_draw(cubes):
     return all(cube.owner is not None for cube in cubes)
 
-# --- NEW FUNCTION and MODIFIED draw_ui ---
+
 def draw_text_gl(x, y, text_string, font, color=(255, 0, 0, 255)):
     """Renders text to an OpenGL texture and draws it on a quad."""
     text_surface = font.render(text_string, True, color) # Pygame surface
